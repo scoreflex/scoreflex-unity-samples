@@ -1,4 +1,4 @@
-scoreflex-unity-samples
+Scoreflex Unity Samples
 =======================
 
 Scoreflex Unity Samples
